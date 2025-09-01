@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**minyas24/minyas24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**minyas24/minyas24** 
 
 
 Actualmente curso una Maestría en Ciencias Biológicas en la Facultad de Estudios Superiores Zaragoza, UNAM (<https://pcbiol.posgrado.unam.mx/>) .
