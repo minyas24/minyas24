@@ -8,7 +8,7 @@ Actualmente curso una Maestría en Ciencias Biológicas en la Facultad de Estudi
 
 Mi proyecto busca encontrar sitios de importancia para la conservación de aves del género *Icterus*, usando métodos panbiogeográficos.
 
-[![Icterus abeillei](images/Icterus%20abeillei.jpg)](https://enciclovida.mx/busquedas/resultados?nivel=%3D&cat=7100&busqueda=avanzada&id=26244&por_pagina=50&solo_categoria=50)
+![*Icterus abeillei*](https://inaturalist-open-data.s3.amazonaws.com/photos/13191045/original.jpg)
 
 Estoy aprendiendo a usar Sistemas de Información Geográfica, como QGis y programas para el manejo de bases de datos como RStudio.
 
